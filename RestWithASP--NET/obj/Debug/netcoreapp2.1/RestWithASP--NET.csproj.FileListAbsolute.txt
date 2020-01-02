@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\RestWithASP--NET.deps.json
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\RestWithASP--NET.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\RestWithASP--NET.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\RestWithASP--NET.dll
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\bin\Debug\netcoreapp2.1\RestWithASP--NET.pdb
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.RazorAssemblyInfo.cache
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.RazorAssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.RazorTargetAssemblyInfo.cache
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.dll
+C:\Users\Jhonatan\Desktop\TI\RestwithASPNET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\RestWithASP--NET\obj\Debug\netcoreapp2.1\RestWithASP--NET.pdb
